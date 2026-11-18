@@ -1,0 +1,416 @@
+Welcome to Student Record and Result Management System!
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+--- Add Student Details ---
+Enter SAP ID: Enter Roll Number: Enter Name: Enter Phone Number: Enter Email ID: Enter Year (1-4): Enter Current Semester (1-8): Enter SGPA for each semester (enter 0 if not completed).
+Semester 1 SGPA: Semester 2 SGPA: Semester 3 SGPA: Semester 4 SGPA: Semester 5 SGPA: Semester 6 SGPA: Semester 7 SGPA: Semester 8 SGPA: Student record added successfully.
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+--- Add Student Details ---
+Enter SAP ID: Enter Roll Number: Enter Name: Enter Phone Number: Enter Email ID: Enter Year (1-4): Enter Current Semester (1-8): Enter SGPA for each semester (enter 0 if not completed).
+Semester 1 SGPA: Semester 2 SGPA: Semester 3 SGPA: Semester 4 SGPA: Semester 5 SGPA: Semester 6 SGPA: Semester 7 SGPA: Semester 8 SGPA: Student record added successfully.
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+--- Add Student Details ---
+Enter SAP ID: Enter Roll Number: Enter Name: Enter Phone Number: Enter Email ID: Enter Year (1-4): Enter Current Semester (1-8): Enter SGPA for each semester (enter 0 if not completed).
+Semester 1 SGPA: Semester 2 SGPA: Semester 3 SGPA: Semester 4 SGPA: Semester 5 SGPA: Semester 6 SGPA: Semester 7 SGPA: Semester 8 SGPA: Student record added successfully.
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+--- Add Student Details ---
+Enter SAP ID: Enter Roll Number: Enter Name: Enter Phone Number: Enter Email ID: Enter Year (1-4): Enter Current Semester (1-8): Enter SGPA for each semester (enter 0 if not completed).
+Semester 1 SGPA: Semester 2 SGPA: Semester 3 SGPA: Semester 4 SGPA: Semester 5 SGPA: Semester 6 SGPA: Semester 7 SGPA: Semester 8 SGPA: Student record added successfully.
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+--- Add Student Details ---
+Enter SAP ID: Enter Roll Number: Enter Name: Enter Phone Number: Enter Email ID: Enter Year (1-4): Enter Current Semester (1-8): Enter SGPA for each semester (enter 0 if not completed).
+Semester 1 SGPA: Semester 2 SGPA: Semester 3 SGPA: Semester 4 SGPA: Semester 5 SGPA: Semester 6 SGPA: Semester 7 SGPA: Semester 8 SGPA: Student record added successfully.
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+Enter SAP ID to search: 
+----------------------------------------
+SAP ID       : 1002
+Roll Number  : 102
+Name         : Riya
+Phone Number : 9876500002
+Email ID     : riya@example.com
+Year         : 2
+Semester     : 3
+SGPA         : 7.50 7.70 - - - - - - 
+CGPA         : 7.60
+----------------------------------------
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+Enter SAP ID for academic advice: 
+Academic Advisor for Aarav
+Your CGPA is: 9.20
+Excellent performance - maintain your current study pattern.
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+Enter SAP ID for academic advice: 
+Academic Advisor for Kabir
+Your CGPA is: 5.80
+Needs improvement - focus more on subjects with lower SGPA.
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+Enter SAP ID for academic advice: 
+Academic Advisor for Meera
+Your CGPA is: 4.00
+Requires immediate attention - make a study plan and ask teachers for help.
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+===== Average CGPA Year-wise =====
+Year 1 Average CGPA: 8.80
+Year 2 Average CGPA: 6.70
+Year 3 Average CGPA: 4.00
+Year 4: No CGPA records available.
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+Records sorted by SAP ID in increasing order.
+
+===== All Student Records =====
+
+----------------------------------------
+SAP ID       : 1001
+Roll Number  : 101
+Name         : Aarav
+Phone Number : 9876500001
+Email ID     : aarav@example.com
+Year         : 1
+Semester     : 2
+SGPA         : 9.00 9.40 - - - - - - 
+CGPA         : 9.20
+----------------------------------------
+
+----------------------------------------
+SAP ID       : 1002
+Roll Number  : 102
+Name         : Riya
+Phone Number : 9876500002
+Email ID     : riya@example.com
+Year         : 2
+Semester     : 3
+SGPA         : 7.50 7.70 - - - - - - 
+CGPA         : 7.60
+----------------------------------------
+
+----------------------------------------
+SAP ID       : 1003
+Roll Number  : 103
+Name         : Kabir
+Phone Number : 9876500003
+Email ID     : kabir@example.com
+Year         : 2
+Semester     : 4
+SGPA         : 5.60 6.00 - - - - - - 
+CGPA         : 5.80
+----------------------------------------
+
+----------------------------------------
+SAP ID       : 1004
+Roll Number  : 104
+Name         : Meera
+Phone Number : 9876500004
+Email ID     : meera@example.com
+Year         : 3
+Semester     : 5
+SGPA         : 4.00 - - - - - - - 
+CGPA         : 4.00
+----------------------------------------
+
+----------------------------------------
+SAP ID       : 1005
+Roll Number  : 105
+Name         : Dev
+Phone Number : 9876500005
+Email ID     : dev@example.com
+Year         : 1
+Semester     : 1
+SGPA         : 8.40 - - - - - - - 
+CGPA         : 8.40
+----------------------------------------
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+Records sorted by Name in increasing order.
+
+===== All Student Records =====
+
+----------------------------------------
+SAP ID       : 1001
+Roll Number  : 101
+Name         : Aarav
+Phone Number : 9876500001
+Email ID     : aarav@example.com
+Year         : 1
+Semester     : 2
+SGPA         : 9.00 9.40 - - - - - - 
+CGPA         : 9.20
+----------------------------------------
+
+----------------------------------------
+SAP ID       : 1005
+Roll Number  : 105
+Name         : Dev
+Phone Number : 9876500005
+Email ID     : dev@example.com
+Year         : 1
+Semester     : 1
+SGPA         : 8.40 - - - - - - - 
+CGPA         : 8.40
+----------------------------------------
+
+----------------------------------------
+SAP ID       : 1003
+Roll Number  : 103
+Name         : Kabir
+Phone Number : 9876500003
+Email ID     : kabir@example.com
+Year         : 2
+Semester     : 4
+SGPA         : 5.60 6.00 - - - - - - 
+CGPA         : 5.80
+----------------------------------------
+
+----------------------------------------
+SAP ID       : 1004
+Roll Number  : 104
+Name         : Meera
+Phone Number : 9876500004
+Email ID     : meera@example.com
+Year         : 3
+Semester     : 5
+SGPA         : 4.00 - - - - - - - 
+CGPA         : 4.00
+----------------------------------------
+
+----------------------------------------
+SAP ID       : 1002
+Roll Number  : 102
+Name         : Riya
+Phone Number : 9876500002
+Email ID     : riya@example.com
+Year         : 2
+Semester     : 3
+SGPA         : 7.50 7.70 - - - - - - 
+CGPA         : 7.60
+----------------------------------------
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+Enter SAP ID to delete: Student record deleted successfully.
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: 
+===== All Student Records =====
+
+----------------------------------------
+SAP ID       : 1001
+Roll Number  : 101
+Name         : Aarav
+Phone Number : 9876500001
+Email ID     : aarav@example.com
+Year         : 1
+Semester     : 2
+SGPA         : 9.00 9.40 - - - - - - 
+CGPA         : 9.20
+----------------------------------------
+
+----------------------------------------
+SAP ID       : 1003
+Roll Number  : 103
+Name         : Kabir
+Phone Number : 9876500003
+Email ID     : kabir@example.com
+Year         : 2
+Semester     : 4
+SGPA         : 5.60 6.00 - - - - - - 
+CGPA         : 5.80
+----------------------------------------
+
+----------------------------------------
+SAP ID       : 1004
+Roll Number  : 104
+Name         : Meera
+Phone Number : 9876500004
+Email ID     : meera@example.com
+Year         : 3
+Semester     : 5
+SGPA         : 4.00 - - - - - - - 
+CGPA         : 4.00
+----------------------------------------
+
+----------------------------------------
+SAP ID       : 1002
+Roll Number  : 102
+Name         : Riya
+Phone Number : 9876500002
+Email ID     : riya@example.com
+Year         : 2
+Semester     : 3
+SGPA         : 7.50 7.70 - - - - - - 
+CGPA         : 7.60
+----------------------------------------
+
+========== STUDENT RECORD AND RESULT MANAGEMENT ==========
+1. Add Student Details
+2. Search Student by SAP ID
+3. Display All Student Records
+4. Calculate Average CGPA of Each Year
+5. Delete Student Record
+6. Sort Records by SAP ID
+7. Sort Records by Name
+8. AI-Assisted Academic Advisor
+9. Exit
+==========================================================
+Enter your choice: Thank you for using the system. Goodbye!
